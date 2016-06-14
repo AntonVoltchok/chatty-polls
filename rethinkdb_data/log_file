@@ -1,0 +1,31 @@
+2016-06-13T22:26:45.875676000 0.360854s notice: Recursively removing directory /Users/antonvolt/code/horizon/chattyPolls/rethinkdb_data/tmp
+2016-06-13T22:26:45.881599000 0.366784s notice: Initializing directory /Users/antonvolt/code/horizon/chattyPolls/rethinkdb_data
+2016-06-13T22:26:45.881758000 0.366934s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/antonvolt/code/horizon/chattyPolls/rethinkdb_data' did not already exist or is empty.)
+2016-06-13T22:26:45.881803000 0.366979s notice: Running rethinkdb 2.3.2 (CLANG 7.3.0 (clang-703.0.29))...
+2016-06-13T22:26:45.887982000 0.373160s notice: Running on Darwin 15.0.0 x86_64
+2016-06-13T22:26:45.888040000 0.373216s notice: Loading data from directory /Users/antonvolt/code/horizon/chattyPolls/rethinkdb_data
+2016-06-13T22:26:45.961309000 0.446486s info: Cache size is set to 200 MB
+2016-06-13T22:26:45.962610000 0.447787s notice: Listening for intracluster connections on port 51579
+2016-06-13T22:26:45.965551000 0.450728s notice: Listening for client driver connections on port 51580
+2016-06-13T22:26:45.965720000 0.450897s notice: Listening for administrative HTTP connections on port 51581
+2016-06-13T22:26:45.965746000 0.450922s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-06-13T22:26:45.965765000 0.450941s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-06-13T22:26:45.965767000 0.450943s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-06-13T22:26:45.965774000 0.450950s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-06-13T22:26:45.965776000 0.450952s notice: Server ready, "Antons_MacBook_Pro_local_sgy" dba00f1f-8d7c-4fa2-9c65-10d77db1f44c
+2016-06-13T22:26:46.141667000 0.626843s info: Table 587c2db1-f64d-4536-bc91-fb8be07d669b: Starting a new Raft election for term 1.
+2016-06-13T22:26:46.142053000 0.627229s info: Table 587c2db1-f64d-4536-bc91-fb8be07d669b: Added replica on this server.
+2016-06-13T22:26:46.154553000 0.639729s info: Table 587c2db1-f64d-4536-bc91-fb8be07d669b: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-13T22:26:46.388809000 0.873986s notice: A newer version of the RethinkDB server is available: 2.3.4. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2016-06-13T22:26:46.761184000 1.246431s info: Table 1d714b29-4469-4a00-8b3d-13993bb40038: Starting a new Raft election for term 1.
+2016-06-13T22:26:46.761312000 1.246559s info: Table 1d714b29-4469-4a00-8b3d-13993bb40038: Added replica on this server.
+2016-06-13T22:26:46.769951000 1.255198s info: Table 1d714b29-4469-4a00-8b3d-13993bb40038: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-13T22:26:47.364319000 1.849565s info: Table c230cb80-a5a5-4f88-a202-257f5e8aa3d8: Starting a new Raft election for term 1.
+2016-06-13T22:26:47.364534000 1.849781s info: Table c230cb80-a5a5-4f88-a202-257f5e8aa3d8: Added replica on this server.
+2016-06-13T22:26:47.374967000 1.860214s info: Table c230cb80-a5a5-4f88-a202-257f5e8aa3d8: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-13T22:26:47.969588000 2.454834s info: Table 5e3a3d92-936a-47cf-88e0-2c4add2fac59: Starting a new Raft election for term 1.
+2016-06-13T22:26:47.969808000 2.455054s info: Table 5e3a3d92-936a-47cf-88e0-2c4add2fac59: Added replica on this server.
+2016-06-13T22:26:47.982136000 2.467383s info: Table 5e3a3d92-936a-47cf-88e0-2c4add2fac59: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-14T03:59:51.108529000 11537.158001s info: Table e719e7d7-0a06-40b8-93fc-d4aee50e2e77: Starting a new Raft election for term 1.
+2016-06-14T03:59:51.108652000 11537.158123s info: Table e719e7d7-0a06-40b8-93fc-d4aee50e2e77: Added replica on this server.
+2016-06-14T03:59:51.116942000 11537.166414s info: Table e719e7d7-0a06-40b8-93fc-d4aee50e2e77: This server is Raft leader for term 1. Latest log index is 0.
